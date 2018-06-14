@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="locations">
+        <item>Select Location</item>
+        <item>Haladia</item>
+        <item>Sagar Island</item>
+        <item>Digha</item>
+        <item>Chandipur</item>
+        <item>Dhamara</item>
+        <item>Paradeep</item>
+        <item>Konark</item>
+        <item>Puri</item>
+        <item>Chilika</item>
+        <item>Gopalpur</item>
+        <item>Palasa</item>
+        <item>Srikakulam</item>
+        <item>Vishakhapatnam</item>
+        <item>Kakinada</item>
+        <item>Machilipatnam</item>
+        <item>Ongole</item>
+        <item>Nallore</item>
+        <item>Pulicat</item>
+        <item>Chennai</item>
+        <item>Mahabalipuram</item>
+        <item>Kadalur</item>
+        <item>Puduchery</item>
+        <item>Pompuhar</item>
+        <item>Nagapattinam</item>
+        <item>Vedaranyam</item>
+        <item>Kottaippattinam</item>
+        <item>Keelakarai</item>
+        <item>Rameswaran</item>
+        <item>Vembar</item>
+        <item>Thoothukodi</item>
+        <item>Manshad</item>
+        <item>Kanyakumari</item>
+        <item>Muttom</item>
+        <item>Port Blair</item>
+        <item>Vizhinjam</item>
+        <item>Perumathura</item>
+        <item>Kollam</item>
+        <item>Alappad</item>
+        <item>Alappuza</item>
+        <item>Kochi</item>
+        <item>Ponnani</item>
+        <item>Kojhikote</item>
+        <item>Koyilandy</item>
+        <item>Mahe</item>
+        <item>Kannur</item>
+        <item>Ettikulam</item>
+        <item>Kanhangar</item>
+        <item>Mangalore</item>
+        <item>Malpe-Udupi</item>
+        <item>Mavakurve</item>
+        <item>Honnavar</item>
+        <item>Karwar</item>
+        <item>Betul</item>
+        <item>Panjim</item>
+        <item>Tiracol</item>
+        <item>Malvan</item>
+        <item>Devgad</item>
+        <item>Ratnagiri</item>
+        <item>Dabhol</item>
+        <item>Murud</item>
+        <item>Alibag</item>
+        <item>Mumbai(Byculla)</item>
+        <item>Andheri(Mumbai)</item>
+        <item>Virar</item>
+        <item>Dahanu</item>
+        <item>Daman</item>
+        <item>Billimora</item>
+        <item>Hazira</item>
+        <item>Dahej</item>
+        <item>Bhavnagar</item>
+        <item>Mahuva</item>
+        <item>Along</item>
+        <item>Pippavav</item>
+        <item>Diu</item>
+        <item>Veraval</item>
+        <item>Porbandar</item>
+        <item>Okha</item>
+        <item>Jamanagar</item>
+        <item>Navlakhi port</item>
+        <item>Mundra</item>
+        <item>Mandvi</item>
+        <item>Jakhau</item>
+        <item>Koteshvar</item>
+        <item>Minicoy</item>
+    </string-array>
+
+</resources>
